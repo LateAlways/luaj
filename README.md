@@ -1,5 +1,8 @@
+#OUTDATED - NOT WORKING - NEVER FINISHED
+
 # luaj
 My own version of lua. Keep in mind this is my first time doing a "programming language".
+
 
 ### This works with roblox just put it in a modulescript
 
